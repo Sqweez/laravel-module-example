@@ -38,7 +38,3 @@ These tests focus on payment/invoice constraints and operational abilities for s
 - This is a showcase extraction from a larger private codebase.
 - The full application contains DTOs, models, requests, resources, and API controllers that integrate with this module.
 - The goal of this package is to demonstrate service-layer architecture and domain validation approach.
-
-## Suggested message for sharing
-
-"I am sharing a Laravel service-layer module responsible for SaleOrder domain workflows (status transitions, totals, invoice/payment orchestration) with unit tests that demonstrate domain constraints."
